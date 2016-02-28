@@ -1,0 +1,25 @@
+_repo: The-Winds-of-the-World_6751
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: ''
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Fiction'
+- !lcc 'PR'
+title: The Winds of the World
+url: http://www.gutenberg.org/ebooks/6751
